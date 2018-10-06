@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: com.iphayao.microservice.demo
+---
+testFramework: junit
+sourceLanguage: java
